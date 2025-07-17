@@ -1,0 +1,1001 @@
+Age,Salary,City,Bought
+58,72081,London,Yes
+25,117835,London,Yes
+19,43710,Toronto,No
+35,51079,Toronto,No
+33,73228,New York,Yes
+32,83955,Toronto,Yes
+26,94942,Sydney,Yes
+24,67777,London,Yes
+52,116846,London,No
+23,82488,New York,Yes
+55,102102,Toronto,No
+45,34809,London,No
+20,89614,Berlin,Yes
+19,41542,Berlin,Yes
+23,71224,Sydney,Yes
+31,63082,Berlin,Yes
+32,72372,Berlin,No
+50,45194,London,Yes
+56,82976,Paris,Yes
+19,97449,Berlin,No
+53,30150,Sydney,Yes
+30,116200,Berlin,No
+59,101118,London,No
+52,90552,Toronto,No
+44,84165,Tokyo,No
+32,37104,London,No
+46,54586,Toronto,No
+55,97952,New York,No
+35,77419,Sydney,No
+18,111609,Berlin,No
+28,95338,New York,No
+45,111973,Berlin,Yes
+39,87939,Tokyo,No
+35,36764,Toronto,No
+27,56680,Paris,Yes
+31,65003,Tokyo,No
+39,101987,London,No
+24,47172,London,No
+23,67752,New York,Yes
+42,87424,New York,Yes
+24,93532,London,Yes
+40,45915,Sydney,Yes
+40,33783,London,No
+56,112578,London,No
+34,109806,Berlin,No
+20,61365,Tokyo,Yes
+47,50758,Sydney,Yes
+52,70730,Berlin,No
+25,102199,Paris,Yes
+42,31792,Sydney,No
+23,102384,Berlin,Yes
+53,83476,London,No
+36,42217,Berlin,No
+58,59451,New York,No
+57,44871,Sydney,No
+41,90482,Toronto,No
+54,45396,London,No
+30,114896,Tokyo,Yes
+22,50181,Berlin,No
+20,95323,London,Yes
+60,68254,Sydney,Yes
+32,96698,Toronto,No
+36,65838,New York,Yes
+23,84459,New York,Yes
+32,93242,Sydney,Yes
+24,91894,Sydney,Yes
+42,61946,Berlin,Yes
+35,89871,London,Yes
+47,102255,Tokyo,No
+58,48958,Toronto,Yes
+41,80277,Sydney,Yes
+28,54983,Sydney,Yes
+41,108561,Paris,Yes
+40,96616,New York,Yes
+31,47892,Paris,Yes
+60,39150,Toronto,No
+35,66208,Tokyo,No
+59,84387,Sydney,Yes
+22,74548,Toronto,No
+56,96550,Berlin,No
+58,65018,New York,Yes
+28,30336,Paris,Yes
+52,67072,New York,No
+33,69132,Paris,Yes
+28,106931,Toronto,Yes
+47,106011,Sydney,No
+42,116499,London,No
+35,94178,London,Yes
+58,49476,Berlin,No
+53,88529,Tokyo,Yes
+32,100592,New York,Yes
+38,93483,Tokyo,Yes
+21,75236,Paris,Yes
+32,73573,Sydney,Yes
+20,102340,Berlin,Yes
+38,101228,London,No
+43,79441,London,No
+35,89682,Berlin,No
+22,72176,Toronto,No
+31,54727,New York,Yes
+54,61300,Tokyo,No
+38,104946,Paris,No
+31,80196,Tokyo,No
+59,60613,London,Yes
+49,83841,Berlin,Yes
+43,35720,London,No
+59,71704,Sydney,Yes
+47,91993,London,Yes
+27,79968,Paris,Yes
+34,80604,New York,No
+26,116991,New York,No
+33,115461,Sydney,No
+53,49936,Paris,No
+52,94923,Berlin,Yes
+34,34852,Tokyo,Yes
+55,46547,Berlin,Yes
+45,95836,Tokyo,Yes
+55,107356,New York,No
+43,73515,London,No
+41,43154,Toronto,No
+32,87711,London,Yes
+26,43069,Sydney,Yes
+50,98937,Berlin,Yes
+49,89890,Paris,Yes
+23,32011,Tokyo,No
+21,48894,London,No
+25,83736,Sydney,Yes
+27,115823,Berlin,Yes
+58,50232,Paris,No
+28,39807,New York,Yes
+45,91537,Paris,Yes
+56,64737,Toronto,No
+22,74375,New York,Yes
+42,111691,Berlin,Yes
+42,82098,Paris,Yes
+56,115175,Sydney,No
+47,40527,Berlin,Yes
+51,73065,New York,No
+34,118389,Toronto,Yes
+53,99942,Sydney,Yes
+18,79808,Toronto,No
+25,71505,London,No
+52,112155,Sydney,No
+35,93956,London,Yes
+59,100912,Sydney,Yes
+39,34705,New York,No
+25,110931,Tokyo,Yes
+36,38968,Tokyo,Yes
+45,60771,London,No
+28,112727,London,Yes
+47,119705,Toronto,Yes
+18,67667,Paris,No
+34,59817,Sydney,No
+50,41846,Sydney,No
+29,86881,Sydney,Yes
+50,42903,Sydney,No
+24,113066,Paris,No
+58,43173,Toronto,No
+37,88153,London,Yes
+58,51805,Tokyo,No
+50,69251,Paris,No
+56,33794,New York,No
+30,36028,Paris,Yes
+27,72516,Toronto,No
+41,37355,Paris,Yes
+28,68452,Paris,No
+52,76984,Toronto,Yes
+51,79131,Berlin,Yes
+18,86450,New York,Yes
+56,49080,London,No
+38,62007,Tokyo,Yes
+49,99621,Tokyo,No
+19,84008,London,Yes
+25,104177,Berlin,No
+41,119364,Toronto,No
+37,53600,Tokyo,No
+33,52280,Paris,Yes
+21,52946,Tokyo,Yes
+33,40350,New York,Yes
+54,109887,New York,No
+23,80140,London,No
+23,111226,Berlin,No
+49,119539,Sydney,No
+22,61566,Sydney,Yes
+52,95230,Berlin,Yes
+26,106435,Tokyo,Yes
+26,48758,Berlin,Yes
+60,60433,Toronto,No
+48,90443,Berlin,No
+53,113611,Toronto,No
+28,63289,Tokyo,Yes
+34,90236,New York,Yes
+51,63466,Paris,Yes
+56,117404,London,No
+45,31231,Sydney,Yes
+31,90981,New York,No
+52,67700,Berlin,No
+30,118815,Berlin,Yes
+37,101643,Sydney,No
+43,50706,Tokyo,No
+60,39681,London,No
+59,87898,Paris,Yes
+41,75293,Toronto,Yes
+46,107014,Toronto,Yes
+51,69210,Tokyo,No
+46,113746,Sydney,Yes
+25,85615,Tokyo,Yes
+33,62780,Paris,No
+32,89878,Toronto,No
+22,69599,Paris,No
+39,56111,Berlin,No
+19,80422,Tokyo,Yes
+55,93335,Toronto,Yes
+53,43979,New York,Yes
+32,61091,Toronto,No
+55,79986,New York,No
+32,104963,Tokyo,No
+18,77049,Paris,No
+22,105341,London,No
+58,68780,Paris,Yes
+21,68696,Paris,No
+32,32875,London,No
+22,116275,Sydney,Yes
+20,81879,Paris,No
+39,65976,London,Yes
+22,31061,Tokyo,No
+50,104177,London,Yes
+33,119889,Toronto,Yes
+35,36428,New York,No
+60,109482,London,Yes
+49,95107,Paris,No
+31,67512,Sydney,No
+52,60162,Tokyo,No
+26,109569,London,No
+54,76179,Paris,No
+54,58705,Sydney,No
+48,113442,London,No
+33,54920,Tokyo,Yes
+48,111381,Tokyo,No
+44,62850,New York,No
+30,118835,Tokyo,Yes
+24,116400,Sydney,No
+24,119241,Paris,No
+60,47927,Tokyo,Yes
+45,112345,Tokyo,No
+40,42735,Paris,No
+45,112242,Paris,No
+44,114717,Sydney,No
+47,35167,Tokyo,Yes
+21,70492,Sydney,No
+59,87779,Tokyo,No
+59,34373,London,No
+24,105965,Toronto,No
+21,77823,Tokyo,No
+43,47224,New York,Yes
+39,41813,Toronto,Yes
+24,68680,Toronto,Yes
+33,72823,New York,Yes
+30,84460,New York,No
+30,53021,New York,Yes
+52,56318,Sydney,No
+46,47322,Toronto,No
+26,100701,Tokyo,Yes
+45,77953,London,No
+29,99579,Sydney,No
+35,95771,Paris,Yes
+47,65720,Toronto,No
+33,51567,Tokyo,Yes
+22,63681,Berlin,No
+46,93156,Tokyo,Yes
+53,68684,Sydney,No
+24,74396,New York,No
+21,45095,Berlin,Yes
+59,91385,Sydney,No
+52,39869,Tokyo,No
+18,48449,London,No
+23,59571,Sydney,No
+33,118647,London,Yes
+28,118395,Berlin,No
+44,82089,Paris,Yes
+49,103048,Toronto,Yes
+48,77942,Toronto,Yes
+31,41836,Sydney,No
+43,81717,Berlin,Yes
+21,31824,London,Yes
+28,64663,Berlin,No
+42,100329,New York,No
+18,46199,Sydney,No
+42,89609,New York,Yes
+34,78311,Paris,Yes
+47,118188,Berlin,Yes
+36,118125,Berlin,No
+45,64362,Berlin,Yes
+53,106619,Berlin,Yes
+60,79941,Paris,No
+49,113695,London,No
+27,78689,Tokyo,No
+30,44201,Paris,No
+36,118452,London,Yes
+31,60647,Toronto,No
+21,91797,Sydney,Yes
+55,33280,London,No
+52,111205,Sydney,Yes
+21,103584,Toronto,No
+38,72992,London,No
+21,109964,Berlin,Yes
+21,59015,Paris,Yes
+55,114889,Toronto,Yes
+48,38285,London,No
+50,113283,Tokyo,No
+51,90852,Tokyo,No
+28,69608,New York,No
+21,115097,London,Yes
+50,83516,Paris,No
+23,45292,Berlin,No
+29,48320,New York,No
+22,35943,London,Yes
+56,34877,Berlin,No
+22,69893,Paris,No
+33,94569,Paris,No
+43,45220,New York,Yes
+25,42739,New York,No
+54,60775,London,Yes
+33,100457,Berlin,Yes
+55,47781,Toronto,Yes
+56,80940,Tokyo,No
+20,89459,Berlin,Yes
+57,78629,Paris,Yes
+23,117881,Toronto,Yes
+44,100804,Paris,Yes
+60,84935,Toronto,Yes
+55,106983,London,No
+54,50253,Tokyo,No
+51,84379,Sydney,No
+38,115841,London,Yes
+34,42978,Paris,No
+31,94139,Toronto,Yes
+60,110694,Paris,Yes
+38,83492,Berlin,No
+33,66666,Tokyo,No
+34,34288,Berlin,Yes
+43,78566,Berlin,Yes
+26,58477,London,No
+60,88115,Berlin,No
+59,88287,New York,No
+37,60947,New York,Yes
+47,77537,Berlin,Yes
+38,43022,Tokyo,Yes
+22,119873,Berlin,No
+18,78147,Paris,Yes
+47,101364,Paris,Yes
+57,114518,Tokyo,Yes
+54,77012,London,No
+24,37936,New York,No
+22,82184,New York,Yes
+52,66160,London,No
+31,54878,Berlin,Yes
+50,46011,Tokyo,No
+34,89600,Toronto,No
+26,42015,Sydney,No
+40,116870,Sydney,No
+22,57801,Berlin,No
+33,114109,London,Yes
+41,113819,Tokyo,No
+36,108269,New York,No
+28,32799,Toronto,No
+46,36629,New York,Yes
+52,73713,Berlin,No
+37,61925,Paris,Yes
+57,46505,London,Yes
+59,104000,Sydney,No
+51,56896,London,Yes
+18,38992,Toronto,Yes
+60,102641,Berlin,No
+53,57152,London,Yes
+37,106858,New York,Yes
+60,58305,Berlin,No
+24,60539,New York,Yes
+26,73064,Tokyo,No
+34,49340,Tokyo,No
+25,108116,Paris,Yes
+24,30371,London,No
+53,66342,Tokyo,No
+27,48964,London,Yes
+35,47038,New York,No
+36,100807,Berlin,Yes
+56,62853,Tokyo,Yes
+31,52871,Berlin,No
+39,44408,Toronto,No
+31,116646,Tokyo,Yes
+58,33379,London,Yes
+34,47275,Toronto,No
+50,31947,Tokyo,No
+49,76955,Sydney,Yes
+34,61186,Tokyo,No
+21,107182,New York,Yes
+23,72437,Paris,No
+58,32068,New York,Yes
+45,52838,Berlin,Yes
+35,64782,London,No
+20,36868,Toronto,No
+18,46614,London,No
+39,85176,Tokyo,No
+26,98955,London,No
+58,44896,Toronto,No
+34,38330,Paris,No
+28,92422,Paris,Yes
+46,88756,Tokyo,Yes
+53,77453,Tokyo,Yes
+45,97271,Berlin,Yes
+53,107812,Tokyo,No
+18,44293,New York,Yes
+25,89245,New York,No
+22,96039,New York,Yes
+27,59038,Paris,No
+52,110623,Sydney,Yes
+20,35683,London,No
+41,116363,Toronto,No
+55,98347,Berlin,Yes
+53,69535,Tokyo,Yes
+27,90036,Berlin,No
+45,114323,Paris,No
+26,34082,Tokyo,Yes
+20,37972,Tokyo,No
+37,92781,Paris,Yes
+41,82640,London,No
+20,85872,Tokyo,Yes
+40,119928,London,Yes
+31,44150,Paris,No
+33,94260,Berlin,Yes
+60,88138,Tokyo,No
+24,39632,Sydney,No
+40,40589,Toronto,No
+53,72219,London,Yes
+44,109730,Tokyo,No
+57,49442,London,Yes
+27,38609,Tokyo,Yes
+33,46540,Toronto,Yes
+28,66046,Tokyo,No
+29,111830,Tokyo,No
+44,112978,Berlin,Yes
+19,106724,Sydney,Yes
+29,101874,Tokyo,Yes
+39,72622,London,Yes
+44,79925,Berlin,Yes
+60,108301,Toronto,No
+33,99541,New York,No
+35,68652,London,Yes
+28,89469,London,No
+24,96263,Sydney,No
+42,109354,New York,No
+20,86387,Berlin,No
+48,42999,Tokyo,Yes
+32,44996,London,Yes
+30,115814,Toronto,No
+47,115316,Sydney,Yes
+40,102264,Toronto,No
+37,58183,Sydney,Yes
+32,86370,Sydney,Yes
+32,89186,New York,Yes
+19,59949,Tokyo,Yes
+60,84239,Berlin,No
+30,74424,London,Yes
+43,89441,Sydney,No
+39,82262,Toronto,No
+35,84524,Toronto,Yes
+22,42463,Tokyo,No
+35,70966,Tokyo,No
+40,85936,Paris,No
+59,70963,Sydney,No
+50,117177,New York,Yes
+43,63408,Tokyo,Yes
+52,79060,Berlin,No
+39,50006,Paris,No
+19,92163,Tokyo,No
+25,38799,Sydney,No
+34,41957,Sydney,No
+29,41188,Tokyo,No
+55,42219,Toronto,Yes
+34,86606,Toronto,Yes
+20,42656,Berlin,No
+24,78843,Paris,No
+56,47054,Toronto,Yes
+45,102924,Sydney,No
+40,37861,Paris,Yes
+38,106869,New York,No
+45,103608,Tokyo,Yes
+56,103620,Sydney,No
+50,73207,New York,No
+25,117819,Paris,No
+42,46021,New York,No
+54,83845,Berlin,No
+30,76346,London,Yes
+34,117207,Berlin,No
+20,85435,Paris,No
+45,36743,Berlin,Yes
+18,67700,Sydney,Yes
+51,108696,Paris,Yes
+52,70953,Berlin,No
+60,76090,Tokyo,Yes
+30,43579,Toronto,Yes
+41,105748,Tokyo,Yes
+45,96507,Berlin,No
+22,57884,Toronto,No
+60,50280,Toronto,Yes
+39,116079,Sydney,No
+57,93201,Sydney,Yes
+38,59392,New York,Yes
+60,44184,Sydney,No
+25,75890,Paris,Yes
+37,102910,Tokyo,No
+50,78176,Paris,Yes
+37,45058,Tokyo,No
+60,66512,London,No
+44,105248,Sydney,Yes
+38,59643,Berlin,No
+43,86244,Tokyo,Yes
+36,103526,Berlin,Yes
+53,111490,London,No
+26,110422,Paris,No
+30,118470,Berlin,Yes
+44,114239,Tokyo,No
+60,102972,London,Yes
+42,33441,Tokyo,Yes
+29,109822,London,Yes
+57,116223,Sydney,Yes
+54,65054,Toronto,No
+37,33794,Toronto,Yes
+43,53647,Sydney,Yes
+53,65818,Sydney,Yes
+18,70499,Sydney,No
+37,74541,Toronto,Yes
+36,76009,Sydney,Yes
+31,30800,London,No
+45,53777,Tokyo,Yes
+55,48776,Berlin,No
+56,104228,Paris,Yes
+59,116159,Paris,No
+38,82531,London,Yes
+47,39120,Tokyo,Yes
+46,48595,London,No
+46,112991,Paris,Yes
+31,34018,London,Yes
+50,42026,Toronto,Yes
+48,99531,London,No
+28,58197,Sydney,No
+60,79308,Paris,No
+23,85028,Sydney,Yes
+36,89460,Sydney,No
+50,74681,Berlin,Yes
+60,50631,London,Yes
+58,78503,Berlin,Yes
+57,70846,London,Yes
+39,72517,Tokyo,Yes
+23,104395,Toronto,No
+33,108148,Sydney,No
+37,41135,London,Yes
+32,36895,London,Yes
+30,50392,New York,No
+27,50632,Tokyo,No
+19,110981,Sydney,Yes
+20,36522,Tokyo,Yes
+33,118338,Berlin,Yes
+48,40693,Berlin,Yes
+57,65665,Toronto,Yes
+22,88079,London,No
+47,116761,Toronto,No
+44,85576,Toronto,No
+58,93656,Paris,No
+54,109570,London,Yes
+30,87939,New York,Yes
+42,84287,London,No
+49,65804,Sydney,Yes
+43,58255,New York,Yes
+33,97154,London,No
+27,44918,Berlin,Yes
+59,75242,Sydney,No
+18,86349,London,Yes
+24,44534,Sydney,Yes
+45,67125,Berlin,No
+32,118895,Paris,No
+29,118930,Paris,Yes
+51,107743,Toronto,Yes
+47,93783,Tokyo,No
+21,99066,London,No
+53,117442,Tokyo,Yes
+33,70425,Sydney,Yes
+25,35952,London,No
+47,58903,Paris,Yes
+26,81807,New York,Yes
+47,108554,Tokyo,No
+60,37180,Sydney,No
+51,31007,Tokyo,Yes
+53,56794,Paris,No
+56,69507,Paris,No
+38,57686,New York,No
+46,47987,Sydney,Yes
+57,63491,Tokyo,No
+50,67938,Paris,Yes
+45,73007,Sydney,Yes
+53,45726,Paris,Yes
+46,31013,New York,Yes
+28,95193,New York,No
+48,86446,Berlin,Yes
+46,53028,London,Yes
+34,46932,Sydney,Yes
+33,79834,Berlin,No
+58,99806,New York,No
+35,60161,Sydney,No
+51,95570,Toronto,No
+49,103233,Paris,No
+58,117562,New York,Yes
+33,76421,Tokyo,Yes
+35,39447,Paris,No
+46,82044,Berlin,Yes
+22,35544,Sydney,No
+36,87176,Berlin,Yes
+33,32456,Berlin,Yes
+35,90260,Sydney,Yes
+39,40205,Paris,No
+38,71033,Toronto,No
+52,105465,London,Yes
+23,86267,London,No
+26,105156,London,No
+27,83008,Sydney,Yes
+32,113904,New York,Yes
+42,84747,Toronto,Yes
+27,67947,New York,Yes
+31,45096,Sydney,No
+22,83088,Tokyo,Yes
+44,32733,Paris,No
+44,72568,Tokyo,Yes
+39,52527,Sydney,No
+52,111018,Sydney,Yes
+47,90305,Toronto,Yes
+44,77428,New York,Yes
+21,41551,Paris,Yes
+31,87240,Berlin,Yes
+44,43875,Toronto,Yes
+42,61891,Paris,No
+55,87104,New York,No
+19,107184,Toronto,No
+54,82487,Berlin,Yes
+42,98676,Toronto,No
+48,40308,Berlin,Yes
+18,81873,Paris,No
+40,70668,Sydney,Yes
+37,74500,Toronto,Yes
+42,59041,London,No
+44,73655,New York,No
+52,52037,New York,No
+52,40011,London,Yes
+56,96910,Tokyo,No
+32,112998,Tokyo,Yes
+49,44945,New York,No
+32,99547,London,No
+35,96840,London,No
+45,55415,Berlin,Yes
+49,75793,Sydney,No
+19,76019,Tokyo,Yes
+42,114599,Tokyo,No
+39,49358,Berlin,Yes
+60,60968,Paris,No
+43,43474,Toronto,Yes
+28,49194,Tokyo,Yes
+47,63550,Berlin,Yes
+26,55856,London,Yes
+57,52740,Paris,Yes
+52,108957,Toronto,Yes
+19,50036,New York,Yes
+43,115918,London,Yes
+55,39876,Paris,No
+54,53218,Sydney,No
+60,112306,Berlin,No
+19,94764,Sydney,Yes
+23,90811,London,Yes
+59,103889,Sydney,Yes
+45,105952,Paris,No
+26,88838,New York,Yes
+47,119277,Sydney,No
+29,103989,London,Yes
+21,114278,Toronto,No
+34,113269,London,No
+42,111857,Tokyo,No
+38,72363,Sydney,Yes
+31,112210,Toronto,No
+47,71436,Paris,Yes
+38,49786,Paris,Yes
+39,87640,Tokyo,Yes
+42,38950,Toronto,Yes
+35,91462,Sydney,Yes
+44,87961,Berlin,No
+34,112756,Toronto,Yes
+23,69691,Berlin,No
+48,66002,Tokyo,No
+19,107518,London,No
+52,37362,New York,No
+21,76129,Berlin,Yes
+40,96497,Sydney,No
+32,39724,New York,Yes
+59,70685,Paris,No
+22,90521,Paris,Yes
+59,89233,Berlin,No
+20,34929,London,No
+19,37456,Paris,Yes
+33,78331,New York,No
+30,67627,London,No
+19,40057,Berlin,No
+57,114497,Paris,Yes
+27,41835,Berlin,Yes
+33,110610,Toronto,Yes
+26,107867,London,Yes
+48,96462,London,No
+60,80394,London,Yes
+25,90648,Tokyo,Yes
+54,106064,Sydney,No
+31,102655,Tokyo,Yes
+47,35376,New York,No
+34,88947,London,Yes
+41,104928,Sydney,No
+28,115437,London,No
+56,54672,Sydney,Yes
+56,72143,Paris,Yes
+25,109299,New York,Yes
+28,92341,Sydney,No
+37,95715,New York,No
+24,49773,Berlin,Yes
+55,38109,London,Yes
+19,89050,Paris,No
+37,43566,Berlin,Yes
+54,75015,Sydney,Yes
+42,41053,Tokyo,Yes
+43,96132,Sydney,No
+30,114689,Toronto,No
+22,52617,London,No
+55,35130,Sydney,Yes
+58,62472,New York,Yes
+33,87377,Sydney,Yes
+24,87595,London,No
+37,98690,London,Yes
+56,98517,Tokyo,Yes
+25,109928,Paris,No
+54,50807,Paris,Yes
+20,77696,Paris,Yes
+40,78870,Berlin,No
+52,67079,Paris,No
+45,80779,Berlin,No
+60,83578,Sydney,No
+41,74350,Tokyo,No
+22,118984,London,No
+50,108366,Berlin,No
+59,36863,Sydney,No
+39,112691,Tokyo,Yes
+18,114843,Berlin,Yes
+44,73863,Toronto,Yes
+49,38639,Tokyo,Yes
+24,73213,Toronto,Yes
+45,42387,Sydney,Yes
+41,103133,Toronto,Yes
+58,118916,Paris,Yes
+47,80667,Toronto,No
+27,67243,Paris,No
+45,63029,Sydney,No
+29,116057,Toronto,No
+51,108997,Tokyo,Yes
+59,49709,Toronto,No
+35,73694,Toronto,Yes
+57,40682,New York,No
+52,106380,Tokyo,No
+48,116980,Berlin,No
+47,48537,Tokyo,No
+45,75851,Sydney,Yes
+55,70662,London,Yes
+35,115990,New York,Yes
+38,116787,Tokyo,No
+33,81374,New York,Yes
+23,46901,New York,Yes
+35,107993,Toronto,No
+46,41104,Tokyo,Yes
+33,70577,Tokyo,Yes
+47,103259,Paris,Yes
+54,79372,Tokyo,No
+57,114343,Tokyo,No
+60,73054,Paris,Yes
+42,46750,Paris,No
+39,117833,London,No
+19,119838,Toronto,Yes
+49,98995,Tokyo,Yes
+38,42249,Berlin,No
+29,114675,New York,No
+49,117878,Sydney,Yes
+31,85496,Paris,Yes
+40,96648,Sydney,No
+34,77425,Tokyo,Yes
+39,32389,Berlin,Yes
+35,77526,New York,Yes
+56,70483,Tokyo,Yes
+35,53627,Berlin,Yes
+53,58074,Toronto,Yes
+18,74791,New York,Yes
+51,93736,Berlin,Yes
+30,55166,Paris,No
+23,59693,Tokyo,No
+33,48030,Berlin,Yes
+44,50308,Berlin,No
+49,40114,Tokyo,Yes
+53,68770,New York,Yes
+33,43256,Tokyo,Yes
+48,96543,Berlin,Yes
+59,100748,Sydney,No
+49,99013,Toronto,Yes
+46,34947,London,Yes
+19,116760,Sydney,No
+23,74140,New York,Yes
+36,111006,Berlin,Yes
+32,47176,London,No
+43,108282,Toronto,Yes
+33,79377,New York,Yes
+37,50218,Sydney,No
+60,51266,Paris,No
+55,53703,Tokyo,No
+41,111885,New York,Yes
+48,51697,New York,No
+53,87366,Berlin,No
+51,35726,London,Yes
+40,83852,Sydney,No
+45,77749,New York,Yes
+53,118652,Tokyo,Yes
+39,61133,New York,No
+40,88222,New York,No
+47,110031,Berlin,No
+35,67346,New York,Yes
+37,88841,London,Yes
+34,60671,Berlin,Yes
+32,99993,Paris,No
+25,61348,Toronto,No
+30,70562,Paris,No
+38,91474,Toronto,No
+25,55430,Sydney,Yes
+52,78213,Sydney,Yes
+29,118907,Sydney,No
+30,104766,Berlin,No
+31,87749,London,Yes
+48,90513,Berlin,No
+35,66932,Berlin,Yes
+55,80052,Toronto,Yes
+51,95916,Berlin,Yes
+56,99135,Berlin,No
+36,84874,New York,No
+24,51241,Sydney,No
+30,56174,Sydney,No
+36,109254,Toronto,No
+32,48140,Tokyo,No
+41,62768,Paris,No
+29,36839,Sydney,No
+37,114040,Toronto,Yes
+18,92991,London,Yes
+52,78655,New York,No
+26,102684,Paris,Yes
+35,43446,Tokyo,Yes
+20,97621,Berlin,No
+21,46341,Tokyo,Yes
+53,67363,Paris,No
+36,40993,Sydney,No
+26,51012,Paris,Yes
+58,65755,Toronto,Yes
+49,88893,New York,Yes
+24,97286,Toronto,Yes
+18,49313,New York,Yes
+54,87340,London,No
+36,42021,Berlin,Yes
+48,59102,Sydney,Yes
+48,89130,Sydney,No
+46,75820,Tokyo,No
+39,33495,Berlin,Yes
+29,84381,Tokyo,Yes
+21,36980,Berlin,Yes
+34,81964,Toronto,No
+48,95799,Paris,No
+25,79015,Paris,Yes
+22,60903,Berlin,No
+43,80615,London,Yes
+49,40696,Paris,Yes
+22,79140,London,No
+54,59430,Paris,No
+58,33694,Sydney,Yes
+21,71770,Toronto,No
+27,42987,New York,Yes
+27,115191,New York,Yes
+54,73947,Toronto,Yes
+37,49142,Sydney,Yes
+23,48035,Berlin,Yes
+33,35020,Tokyo,Yes
+25,67601,Toronto,No
+53,91925,New York,Yes
+44,48191,Paris,No
+56,91487,Paris,Yes
+56,88799,New York,Yes
+57,110654,New York,No
+32,30688,Tokyo,Yes
+51,40384,New York,No
+42,32490,Berlin,Yes
+46,63544,Tokyo,Yes
+46,58266,Sydney,Yes
+37,49597,Sydney,Yes
+55,101932,Toronto,Yes
+45,109807,New York,No
+37,99176,Paris,Yes
+54,85476,Sydney,No
+57,44573,New York,No
+21,67762,Berlin,Yes
+57,61147,Berlin,No
+24,69472,Paris,No
+31,45970,Tokyo,No
+58,36258,Paris,Yes
+31,61252,Toronto,Yes
+34,85027,Toronto,No
+60,113748,Toronto,No
+23,111633,New York,No
+28,89914,Paris,Yes
+33,38232,Tokyo,No
+29,44530,London,Yes
+53,95513,Paris,Yes
+22,108215,Toronto,No
+28,100261,Sydney,No
+18,32154,Tokyo,No
+44,112831,London,Yes
+46,97551,Tokyo,Yes
+56,105372,Tokyo,Yes
+48,61711,Toronto,No
+36,48818,Sydney,Yes
+20,68177,Toronto,Yes
+32,86261,London,No
+36,30205,Paris,Yes
+36,110584,London,Yes
+47,76244,Paris,No
+22,61531,Sydney,Yes
+32,104798,Tokyo,No
+34,84600,Paris,Yes
+58,54551,Berlin,Yes
+55,117080,London,No
+60,117584,London,No
+30,41221,New York,Yes
+45,98614,Tokyo,Yes
+25,77265,Tokyo,No
+52,38870,Sydney,No
+32,98951,Paris,Yes
+59,101313,Sydney,No
+27,96496,Sydney,Yes
+35,96535,Berlin,Yes
+27,102633,Tokyo,Yes
+22,32665,Berlin,No
+21,81177,New York,No
+28,91621,London,Yes
+37,35706,Sydney,Yes
+56,113318,Sydney,Yes
+54,80709,Berlin,No
+36,78929,Toronto,No
+46,63246,Tokyo,No
+25,32128,London,Yes
+47,76805,Sydney,No
+37,38855,Berlin,No
+43,75193,Berlin,No
+35,61604,Paris,No
+50,116127,London,No
+52,112346,Berlin,Yes
+49,43587,Paris,No
+46,106271,Toronto,Yes
+23,73583,Tokyo,Yes
+56,47486,Berlin,No
+20,35811,Paris,Yes
+45,76176,Toronto,Yes
+38,101567,Paris,No
+56,74374,London,Yes
+34,114252,Toronto,No
+19,52949,Sydney,No
+23,119742,Paris,Yes
+32,90899,Toronto,Yes
+54,92722,Berlin,No
+55,112802,New York,Yes
+19,53891,Tokyo,No
+35,47675,Berlin,Yes
+54,38270,Berlin,Yes
+20,89988,Tokyo,Yes
+29,34847,Tokyo,No
+48,68462,Paris,No
+51,56422,Berlin,Yes
+59,35741,Paris,No
+46,56144,London,Yes
+35,35492,Paris,No
+29,71365,London,Yes
+55,70642,Sydney,Yes
+45,97552,New York,Yes
+58,82196,Berlin,No
+49,101176,Toronto,Yes
+23,92049,London,Yes
+48,63202,New York,No
+40,34799,Tokyo,No
+44,114790,Sydney,No
+39,55048,Toronto,No
